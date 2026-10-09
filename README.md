@@ -1,5 +1,5 @@
 # GitHub for Developers
-
+:)
 - Class Date: October 8 - 9, 2026
 - Facilitator: @AmarKayed
 
